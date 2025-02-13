@@ -1,0 +1,792 @@
+C & F AGREEMENT
+THIS C&F AGREEMENT is executed at
+ 
+${
+company_location
+} 
+on this 
+${
+contract_creation_date
+}
+ 
+      
+between
+ 
+${
+company_name
+}
+ 
+CIN
+ 
+${
+company_cin
+}
+,
+ 
+PAN
+ 
+${
+company_pan
+}
+,
+ 
+GSTN
+ 
+${
+company_gst
+} 
+having its registered office at 
+${
+company_address
+}
+ 
+duly represented by 
+${
+company_representor_name
+}
+,
+  
+${
+company_representor_designation
+}
+ 
+hereinafter referred to as  ‘
+RASI SEEDS’ 
+(which term shall wherever the context so permits mean and include its legal successors in business and permitted assigns) of the 
+ONE PART
+ 
+AND
+${
+ven
+d
+or_name_with_gstpan
+} 
+having its office
+ 
+at 
+${vendor_address
+1
+}
+ 
+by its Partner, 
+${
+vendor_partner_name
+} 
+${
+vendor_aadharpan
+}
+ 
+S/O 
+${
+vendor_father_name
+}
+ 
+hereinafter referred to as the C&F AGENT (which term shall wherever the context so permits mean and include its successors in business and assigns) of the OTHER PART.
+In general, both shall be referred as Party individually and Parties collectively.
+‘C&F agreement’ and Agreement refers to the same agreement being signed and agreed by the Parties herein
+ 
+Seeds, Stocks, Products, materials, commodities and Goods mentioned herein refers to all the “Products of 
+RASI SEEDS’
+ received, properly stored in the Godown by the 
+C&F AGENT
+ 
+WHEREAS
+ 
+‘RASI SEEDS’
+ has been successfully carrying on in the business of research, development, production and marketing of hybrid seeds of various varieties.
+WHEREAS 
+‘RASI SEEDS’
+ has been successfully carrying on in the business of research, development, production and marketing of hybrid seeds of various varieties. 
+AND WHEREAS the C&F AGENT being the Owner/Lessee
+ 
+at
+ ${vendor_address
+2
+}
+ 
+More particularly described in the SCHEDULE-I hereunder  represented to ‘RASI SEEDS’ that they are authorized C&F AGENT and in the business of letting out, warehousing and rendering complete C&F services for commercial & marketing activities (at locations in Bihar mutually agreed as per the format given in SCHEDULE-I) and that they have  got the experience, expertise, capability and manpower to handle C&F activities of the products of ‘RASI SEEDS’ in Patna, in the State of Bihar.
+AND WHEREAS
+ 
+‘RASI SEEDS’
+ 
+desire to
+ utilize the 
+let
+ 
+out
+ Godown(s) for warehousing their products and also willing to accept the services of 
+the C & F AGENT
+ carried out on behalf of 
+‘RASI SEEDS’
+ in handling, clearing and forwarding of the products and materials of 
+‘RASI SEEDS’
+, on the covenants and conditions set out hereunder.
+AND WHEREAS
+ the 
+C&F AGENT
+ has agreed to exclusively let out the Godown(s) for warehousing the products of 
+‘RASI SEED
+S’s
+ and to provide handling, clearing and forwarding services, to co-ordinate and carry out all required clerical services on behalf of ‘
+RASI SEEDS’
+ and to carry out all activities such as taking delivery of commodities from Railways/Transports/Trucks, storage of the products in the let out Godown(s) and dispatching them to the distributors/ dealers/ branches/ factory/ plant or other consignees as instructed  by 
+‘RASI SEEDS’
+ or through their Authorized 
+Representative
+ from time to time.
+AND WHEREAS the 
+C&F AGENT
+ is aware that the products of the 
+‘RASI SEEDS”
+ may be attacked by Beetles, Moths and therefore, it needs proper care and many preventive measures like storage, sanitation, drying of seeds, fumigation, rodent control, control measures to microorganisms, insect traps etc., are highly required and essential.
+AND WHEREAS the 
+“RASI SEEDS’
+ and the 
+“C&F AGENT’
+ desire to have the following terms and conditions by this elaborative agreement.
+NOW, THEREFORE in consideration of the terms hereinafter mentioned and the mutual covenants and obligations, THE PARTIES hereby AGREE AS FOLLOWS:
+  
+This Agreement sets forth the terms and conditions for the provision of products by the ‘
+RASI SEEDS’
+. This Agreement is limited to the region/state specified and agreed hereinunder. 
+This agreement shall commence on 
+${contract_creation_date2} 
+and save as hereinafter provided shall continue in force for a period from 
+${contract_period1
+} 
+ and
+ 
+‘RASI SEEDS’
+ shall have the right to opt for the renewal of the agreement to another such period on such terms and conditions which are to be accepted by the parties to the agreement mutually. 
+  
+The 
+C&F AGENT
+ shall let out exclusively to 
+‘RASI SEEDS’
+ adequate warehousing facility for the safe keeping and storing of Seeds and its other products and materials outside Octroi Limits.  The goods/seeds of 
+‘RASI SEEDS’
+ should be stored in a cool and dry R.C.C. constructed (Free from Moisture) building. The 
+C&F AGENT
+ shall also strictly adhere to all required safety norms including installing Fire Extinguishers in the godown wherever suggested by the representatives of 
+‘RASI SEEDS’
+ and undertake adequate agreement specific insurance policies for their 
+leased out
+ Godown(s) with the insurance companies with whom ‘
+RASI SEEDS’
+ may have already entered into contract. 
+C&F AGENT
+ shall undertake all adequate pest control measures as required for storing all the products of 
+‘RASI SEEDS’
+, as mentioned in the Recitals above 
+and 
+the related expenses shall be borne by ‘
+RASI SEEDS’.
+The 
+C&F AGENT 
+shall provide necessary infrastructure like staff, proper team, marketing network and support the 
+‘RASI SEEDS’
+ in their business growth.  During the term of the agreement ‘
+RASI SEEDS
+’ may require the C&F Agent to arrange for Godown(s) at such locations and as such terms as may be mutually agreed between the parties in the format specified in 
+Schedule I. 
+The 
+C&F A
+GENT
+ shall carry out all activities as specified in 
+Schedule II & III
+. 
+The 
+C&F AGENT
+ has to solely handle their staff and is fully responsible in carrying out all official and admin works related to sales activities. However, the Supply and the Sales of the Products shall be carried out by the 
+C&F AGENT
+ upon receiving instructions and approvals either from 
+RASI SEEDS
+ or its authorized representatives, Products should not be dispatched from 
+C&F AGENT
+ and/or Godown without raising a proper invoice for the supply through 
+RASI SEEDS
+ system/billing software. After supplying the Products as instructed by 
+RASI SEEDS, C&F AGENT
+ shall follow up with the delivery of the Products and obtain proper delivery challans and proof of delivery 
+(POD
+), maintain proper records for the supplies & inform 
+RASI SEEDS
+ properly. It will be the sole responsibility of the 
+C&F AGENT
+ for the delivery of the Products to the customer and 
+C&F AGENT
+ shall be held responsible for not receiving 
+POD
+.
+The 
+C&F AGENT
+ shall act on behalf of 
+‘RASI SEEDS’
+ and carry out and co-ordinate all day to day activities such as receiving, storing, handling, transportation, loading & un-loading
+ 
+(
+before loading the 
+C&F AGENT
+ should check the truck
+/vehicles
+ 
+are 
+in good condition if any truck
+/vehicles
+ is not in good condition the loading should be stopped and photo copy of the truck
+/vehicles
+ should be intimated to 
+‘RASI SEEDS’
+),
+ clearing & forwarding and clerical services, etc. required in this Agreement, and the related expenses shall be borne by 
+‘RASI SEEDS’
+ upon the production/submission of proper supporting documents by the 
+C&F AGENT
+.
+‘RASI SEEDS’
+ is the sole owner of the products and the title of all products kept inside the Godown therefore
+ shall
+ always rests with 
+‘RASI SEEDS
+’ only. The 
+C&F AGENT
+ shall give an undertaking to this effect to 
+‘RASI SEEDS’
+, disowning any right or claim of right over the products of 
+‘RASI SEEDS’
+ kept under their custody and shall not have any or create any lien whatsoever and shall exhibit a display board confirming that the products stored therein are owned by and belong to 
+‘RASI SEEDS’
+. Under no circumstances the 
+C&F AGENT
+ shall have a right to refuse to release the products/goods according to the requirements of 
+‘RASI SEEDS’
+ or retain the possession there of against the directions of 
+‘RASI SEEDS’
+ or to do any act which is not authorized by 
+‘RASI SEEDS’
+. 
+‘RASI SEEDS’
+ is responsible to insure all the ‘
+RASI S
+EEDS
+’s
+ products/goods/stocks received/kept in the custody of the C&F AGENT against all risks. 
+C&F AGENT
+ is responsible for the Godown and they have to take appropriate insurance cover
+ 
+for the same
+ at their own costs
+ against all risks
+ and shall submit the copy of the Insurance policy to 
+‘
+RASI SEEDS’ 
+immediately
+ from the date of signature of this 
+agreement.
+The 
+C&F AGENT
+ shall be solely liable to pay all the local and statutory taxes such as Municipal/Corporation and other taxes, levies payable in respect of the 
+let out
+ Godown space leased out to 
+‘RASI SEEDS’
+ without any default and in such manner which will not in any manner affect/hamper the rights and the business of the 
+‘RASI SEEDS’
+. Any default in such payments shall be the sole liability of the 
+C&F AGENT
+The 
+C&F AGENT
+ shall use all reasonable legal ways to clear ‘
+RASI SEEDS’
+ products from the respective Railway authorities/office and or from lorry/transport companies  including stocks returned by the customer, receive the said products, unload the said products, check, verify and record the safe receipt of the quantity of the products in accordance with the Railway/ Lorry receipts and relevant forwarding invoices/ challans and also check whether any of the sealed containers or in case any part of the consignment is in loose packets. In such cases of loose packets, 
+C&F AGENT
+ shall check whether all such packets are undamaged and also check whether all such sealed containers and/or packets are well within the period of expiration printed thereon and property store them in their Godowns, batch wise/lot wise, product wise, packing wise in such manner as may be instructed/directed by 
+‘RASI SEEDS’
+. In case of shortage and damages, or products being outside the period of expiration,  the 
+C&F AGENT
+, shall insist for open delivery and notify 
+‘RASI SEEDS’
+ and the consignor for any such discrepancies immediately, put appropriate remarks on the Railway/Lorry Receipts and forwarding challans, obtain necessary endorsement/confirmation of the same from railway/transport personnel, to lodge the claim for loss, failing which the C&F AGENT shall be liable to make good of such losses which 
+‘RASI SEEDS’
+ may incur in this respect. After receipt of the goods by the 
+C&F AGENT
+ and before it is handed over to the representatives of ‘
+RASI SEEDS’
+ if any of the sealed containers or any loose packets are found to be damaged or any of them found to be out of the expiration period printed thereon, the 
+C&F AGENT
+ shall be solely responsible for any loss which 
+‘RASI SEEDS’
+ may incur on that aspect. 
+That the books of records, vouchers, and other related records, registers shall be 
+accurately entered
+ and properly maintained by the 
+C&F AGENT
+ and the same shall be kept available in their office for the 
+‘RASI SEEDS’
+ or its representative’s inspection and verifications
+The 
+C&F AGENT
+ shall also fully cooperate and assist ‘
+RASI SEEDS’
+ in all aspects in filing or suing any claims or damages against the Railways/Lorry authorities/Insurance Company and related firms in this regard and submit all the relevant documents required for the same purposes.
+The 
+C&F AGENT
+ shall also prepare delivery challans and related documents on behalf of 
+‘RASI SEEDS’
+ and send them to distributors/dealers/consignees and also send a copy of delivery challan and lorry receipt to their concerned marketing officer along with the release order given by ‘
+RASI SEEDS’
+ or its authorized 
+representative
+.  The stocks sent to Dealers/Distributors shall be under 
+FREIGHT PAID
+ basis.
+The 
+C&F AGENT
+ shall receive/collect all Cheques/Demand Drafts from customers issued and on behalf of 
+‘RASI SEEDS’
+ and promptly deposit the same in the Bank accounts operated 
+by 
+‘RASI SEEDS’
+,
+ provided to 
+C&F AGENT 
+by the ‘
+RASI SEEDS’
+  
+The 
+C&F AGENT
+ shall send all such bank deposit reports in the prescribed formats to 
+‘RASI SEEDS’
+ as detailed in the annexure attached hereunder from time to time as may be required.
+The 
+C&F AGENT
+ shall closely track/monitor the movement of 
+‘RASI SEEDS’
+ products in such a manner that the products manufactured in the earlier batches are dispatched first (
+FIFO Method
+) and shall also ensure that the products are dispatched well before the expiry dates.
+The 
+C&F AGENT
+ shall handle/clear the rakes/lorry sheds within the stipulated free time allowed by the authorities.  If the 
+C&F AGENT
+ fails to clear the rakes/lorry sheds within the stipulated free time all demurrages/wharfage etc shall be borne by the 
+C&F AGENT.  C&F AGENT
+ shall use the best endeavours to transport the goods through registered transporters at a very reasonable freight with prior approval from ‘
+RASI SEEDS’
+.
+The 
+C&F AGENT
+ shall indemnify 
+‘RASI SEEDS’
+ against any claims and save it harmless not only against any rival claims of the owners and/or any other parties of the premises that may be hired by the 
+C&F AGENT
+, but also in respect of the goods that would be stored in the godown under their custody on behalf of ‘
+RASI SEEDS’
+.
+The 
+C&F AGENT
+ shall release stocks to any distributor/dealer of ‘
+RASI SEEDS’
+ or any other Agencies duly authorized by its officials, only in accordance with the instructions issued from time to time by the authorized representatives of 
+‘RASI SEEDS’
+ and not otherwise. In case of direct delivery to the distributor of 
+‘RASI SEEDS’
+ by the 
+C&F AGENT
+, it is the responsibility of 
+C&F AGENT
+ to release stock only after getting proper acknowledgement of delivery by getting their seal affixed and signature of the authorized person subscribed thereon. The 
+C&F AGENT
+ shall be liable to compensate ‘
+RASI SEEDS’
+ fully of any loss that might be caused to 
+‘RASI SEEDS’
+ due to delivery of goods without getting proper acknowledgement as stated above by the 
+C&F AGENT
+ or their employees.
+The 
+C&F AGENT
+ shall maintain clear accurate records for stock movements and separate records for sales promotional materials like receipt & issue details, packing materials such as empty gunnies/cartons, etc., and shall arrange packing/standardization carried out in structured formats as specified by 
+‘RASI SEEDS’
+.
+ 
+On receipt of Sales promotional materials (
+Marketing Communication Materials - 
+MCM) receipt entry in SAP should made on real time basis and when return the same to sales team issue entry should be entered in SAP on real time basis. Any deviation on MCM transaction will be viewed seriously by “RASI SEEDS”. The
+ records/ documents / files to be maintained by C&F AGENT are described in 
+SCHEDULE – III.
+The 
+C&F AGENT
+ shall be liable to compensate 
+‘RASI SEEDS’
+ for any shortage or damage that might occur due to mishandling or negligence by 
+C&F AGENT
+, his employees and/or subordinates.  The 
+C&F AGENT
+ shall also take proper care to see that the products are kept away from any sort of open flame, fire and display such warning signs near the products since they are inflammable in nature and not consumable by any human and not to be used as a cattle/poultry feed. It shall be responsibility of the 
+C&F AGENT
+ to take all such precautionary measures those are required to safeguard the products, materials and goods of ‘
+RASI SEEDS’
+ from any possible damages. 
+C&F AGE
+NTS
+ warn and advise their employees, sub-ordinates, representatives about the sensitivity of the 
+‘RASI SEEDS’
+ products and ensure they strictly follow the instructions given. 
+When the stocks are received in damaged condition in transit and/or when the cartons /bags get damaged during storage or handling the stocks, it will be repacked into new container/cartons/bags supplied/provided by 
+‘RASI SEEDS’
+, and such repacking and standardization should be done only under the authority and supervision of 
+‘RASI SEEDS’
+s
+ 
+authori
+z
+ed
+ 
+representative. 
+C&F AGENTS
+ should strictly inform their representatives about this condition.
+‘RASI SEEDS’
+ or their authorized representative shall have the right of inspection of the godown and the stocks kept therein, and the records maintained by the 
+C&F AGENT
+ at any time.  The 
+C&F AGENT
+ shall be bound to compensate to ‘
+RASI SEEDS’
+ for any loss that may be caused to 
+‘RASI SEEDS’
+ due to misappropriation or wrongful disposal of the products, goods and materials of 
+‘RASI SEEDS’
+ or by any criminal acts of the 
+C&F AGENT 
+or their employees, appointed by them.
+The 
+C&F AGENT
+ shall be solely responsible for payment of salaries/wages, bonus or any other statutory dues and obligations to their employees, agents employed by them and ensure none of their employees, agents unduly claim over the properties of 
+‘RASI SEEDS’
+ or damage them. If any such incident occurs and/or comes to the knowledge of the ‘
+RASI SEEDS’
+, then, 
+C&F AGENT
+ has to report and compensate for such loss, damages, if any. Further, ‘
+RASI SEEDS’
+ will also have the right and liberty to sue 
+C&F AGENT
+ for consequential damages. 
+The 
+C&F AGENT
+ shall be responsible to provide all the relevant data/documents relates to 
+GST
+ returns & monthly reports for GST authorities, agricultural department and/or any other government or statutory authority as required, and other information and documents required by 
+‘RASI SEEDS’
+ in relates to respective 
+clearing and forwarding
+ activities. 
+C&F AGENT 
+shall arrange to 
+display
+ the name board of the 
+RASI SEEDS 
+as per the instruction 
+provided by 
+‘RASI SEEDS’
+ or its 
+authorized representative
+.
+‘RASI SEEDS’
+ shall pay the 
+C&F AGENT
+ remuneration as per the terms specified in Annexure – A. TDS as applicable as per I
+ncome 
+T
+ax
+ Act will be deducted from the above payments. These charges shall be firm, and it shall not be increased under any circumstances during the agreed term of this Agreement.
+The 
+C&F AGENT
+ remuneration is valid for the period mentioned (
+i.e
+ 
+${contract_period2}
+) as detailed the Annexure – A. The remuneration for the subsequent periods to be fixed on mutually agreed terms and the same will be reduced in writing signed by both the parties
+.
+             
+Any taxes & 
+levies such, Shops and Establishment, Registration Fees, Seed License etc paid by 
+C&F AGENT
+ on behalf of 
+‘RASI SEEDS’
+ will be reimbursed subject to submission of valid original supporting documents like invoices
+ (with GST wherever applicable)
+, payment receipts etc., and further, prior approval should be obtained from 
+‘RASI SEEDS’
+ or its 
+authorized 
+representatives before incurring such expenses.
+The 
+C&F AGENT
+ shall pay to ‘
+RASI SEEDS’
+ Rs.
+ ${
+contract_security_deposit_a
+mount
+}
+/- as Refundable Security Deposit (Rupees Fifty Thousand only). 
+This security deposit
+ shall be refundable by 
+‘RASI SEEDS’
+ only upon termination of the Agreement, subject to clause 3
+4
+ of this agreement. 
+‘RASI SEEDS’
+ has the right to increase the Security Deposit amount at any time during the 
+term of
+ this Agreement. Within 10 days of intimation of such increase, the 
+C&F AGENT
+ shall pay the difference in the deposit amount.
+In case any amount which is due from the 
+C&F AGENT
+ for any reason to 
+‘RASI SEEDS’
+ remains unpaid from more than 
+30 days
+, or if any of the stocks of ‘
+RASI SEEDS’
+ are found to be missing or if any of the stocks of ‘
+RASI SEEDS’
+ are not despatched in time as per instructions of 
+‘RASI SEEDS’, ‘RASI SEEDS’
+ has the absolute right to adjust such amount due towards the Security Deposit paid by the 
+C&F AGENT
+ and subsequently, ask the 
+C&F AGENT
+ to re-pay it to keep the Security deposit amount to the agreed level mentioned in 
+Clause 2
+9
+ above.
+All the expenses incurred, as mentioned in 
+SCHEDULE–II,
+ on behalf of ‘
+RASI SEEDS’
+ shall be paid on monthly basis on submission of all the original bills and receipts for such expenses in the name of 
+‘RASI SEEDS’
+. Bills for expenses of a month should be submitted by 7
+th
+ of succeeding month without fail.
+It is agreed that the relationship between the parties to this agreement shall be that of
+ 
+Principal to 
+Pure Agent
+ 
+only.
+ Nothing contained in this agreement shall be deemed to constitute a joint venture or relationship of partners or of Principal-and-Agent between the parties.   
+ It is agreed that if any due date under this agreement falls on Sunday or a national holiday, previous working day will be the due date for submitting the information, return, and documents, whatever it may be. However, if there is any announcement of national holiday on account of other reasons, then, the first day after such holiday will be considered as the due date.
+ 
+‘RASI SEEDS’
+ shall have the rights to terminate this agreement on any date previous to the agreement period by giving 
+30 days
+’ notice in writing to 
+C&F AGENT
+. If not terminated as aforesaid or renewed at the option of 
+‘RASI SEEDS’
+, this agreement shall be considered as terminated automatically by efflux of time at the midnight of 
+31
+-
+12
+-20
+2
+6
+ without any further intimation or notice of any kind. Upon termination of this agreement on any account, the 
+C&F AGENT
+ shall deliver to ‘
+RASI SEEDS’
+ its papers, documents, stocks, products, goods and materials and Advertisement & Promotional materials and whatsoever, which are under 
+C&F AGENT’s
+ possession properly accounting for the same.
+C&F AGENT
+ may receive confidential information from the 
+‘RASI SEEDS’
+ during the term of this Agreement. 
+C&F AGENT
+ shall not disclose any such confidential information to any person or other third party or make use of such confidential information for their own purposes at any time except otherwise required by law, with the consent of “
+RASI SEEDS”.
+C&F AGENT 
+shall by means of planned, systematic, organizational and technical measures to ensure appropriate information security with regard to confidentiality, integrity and accessibility in connection with the processing of information shared by 
+RASI SEEDS
+.
+ In case of any breach, 
+RASI SEEDS 
+shall take appropriate action.
+RASI SEEDS 
+shall carry out any inspection/audit on its sole discretion or through third party engagement at any point of time during the tenancy of this agreement
+ on such case 
+C&F AGENT 
+shall 
+fully 
+cooperate 
+for the same.
+In general, 
+C&F AGENT
+ shall comply with all laws, regulations, rules, ordinances and orders that the national, state and local government or department, bureau, commission or other agency thereof may promulgate that may affect the performance of this Agreement
+.
+C&F AGENT
+ shall defend, indemnify, and hold
+ 
+affiliates, subsidiaries, officers, agents and employees harmless from and against any and all losses, claims, damages, liabilities, and related expenses (including attorney’s fees) incurred by or asserted against 
+‘RASI SEEDS’
+ arising out of or in connection with their performance of this Agreement
+This Agreement and its Annexes constitute the complete agreement of the parties related to the subject matter hereof, and supersede any prior or contemporaneous contracts, and no representation, inducements, promises, or agreements, oral or otherwise, between the parties not included herein shall be of any force or effect. This Agreement may be supplemented, amended, or modified only by written agreement between the parties hereto. If any one or more provisions of this Agreement shall be held invalid, illegal, or unenforceable in any respect, the validity, legality, and enforceability of the remaining provisions contained herein shall not be in any way affected or impaired thereby. Each attachment and document referred to in this Agreement is hereby incorporated herein. 
+It is mutually agreed that the 
+‘RASI SEEDS’
+ shall not be held liable for losses or damages occurred by causes beyond its control, such as civil unrest, strikes, etc. However, in such events, 
+‘RASI SEEDS’
+ will not be obligated to pay the cost of transport if commodities do not arrive at a prescribed destination. 
+The 
+C&F AGENT
+ shall not use ‘
+RASI SEEDS’
+ name in any form of publicity or disclose any information relating to their work under this Agreement to the general public or to a third party without the prior written consent. 
+In the event of any dispute or difference of opinion between the parties arising out of or in connection with this agreement or with regard to performance by either party, the parties hereto shall use their best efforts to settle such disputes or differences of opinion amicably by mutual negotiation within 30 days of such dispute given in writing to each other. When such 
+a
+ settlement not reached by mutual negotiation, either party may, forthwith send to the other, a notice in writing of the existence of such question, dispute or differences and the same shall be referred to a Single Arbitrator nominated by the Managing Director of ‘
+RASI SEEDS’
+ or his authorized representative and the award made in pursuance thereof shall be final and binding on the parties. The Arbitration   Proceedings   shall   be    governed     in    accordance with the Arbitration and Conciliation Act 1996.  The Arbitration shall be conducted in English/Tamil Language and the venue of such Arbitration shall be at Coimbatore, 
+Tamil
+n
+adu
+.
+ 
+The Courts at Coimbatore only shall be deemed to be the courts of Jurisdictions in respect of any suits, claims, disputes etc., arising out of / relating to this agreement.
+IN WITNESS WHEREOF
+ the parties herein have set their hands hereto on the
+ 
+${contract_creation_date3} 
+at
+ 
+${
+company_location
+}.
+For
+ 
+${
+company_name
+}
+      
+            
+    
+ 
+For
+ 
+${
+vendor_name
+}
+                                                                                                  
+${
+company_representor_
+name
+}
+  
+ 
+                  
+             
+      
+${
+vendor_partner_name
+}
+                                                                                                                                  
+${
+company_representor_designation
+}
+ 
+Partner
+                                       
+                                 
+            
+                                                                                      
+ 
+                               
+WITNESSES
+ & ADDRESSES
+           
+1.
+    
+     
+1.
+             
+2.                                                                                   2.
+    
+
+ANNEXURE
+TEST
+ point1 
+TEST
+ point
+2
+ 
+TEST
+ point
+3
+ 
+TEST
+ point
+4
+ 
+TEST
+ point
+5
+ 
+TEST
+ point
+6
+ 
+TEST
+ point
+7
+ 
+TEST
+ point
+8
+ 
+TEST
+ point
+9
+ 
+TEST
+ point
+10
+ 
+TEST
+ point1
+1
+ 
+TEST
+ point1
+2
+ 
+TEST
+ point1
+3
+ 
+TEST
+ point1
+4
+ 
+TEST
+ point1
+5
+ 
+TEST
+ point1
+6
+ 
+TEST
+ point1
+7
+ 
+TEST
+ point1
+8
+ 
+TEST
+ point1
+9
+ 

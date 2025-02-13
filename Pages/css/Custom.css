@@ -1,0 +1,203 @@
+.dropzone .dz-preview .dz-image {
+	height: 100px;
+}
+.dropzone {
+	border: 1px solid #dedede;
+}
+
+.mb-2rem {
+	margin-bottom: 2rem;
+}
+
+.manual_pagination_div {
+	display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+}
+
+.readonly_field {
+	pointer-events: none;
+	background: #f4f4f4 !important;
+}
+
+.wizard .content > .body textarea.error,.wizard .content > .body select.error,textarea.error {
+    border-color: rgba(241, 91, 38, 0.5) !important;
+    background: transparent;
+}
+
+.dropzone .dz-preview .dz-remove {
+    margin-top: 10px;
+}
+
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+    background-color: #eee !important;
+    opacity: 1 !important;
+}
+
+.dz-image img {
+    width: 120px !important;
+    height: 120px !important;
+}
+
+.dropzone .dz-preview .dz-size {
+	display: none;
+}
+
+.dropzone .dz-preview .dz-filename {
+    margin-top: 15px;
+}
+
+.ajaxloader {
+    width: 100%;
+    height: 100vh;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    z-index: 999999999999999999;
+    right: 0;
+    display: none;
+    background: #73737387;
+    position: fixed;
+    bottom: 0px;
+}
+
+.loader {
+  width: 20px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: #000;
+  box-shadow: 0 0 0 0 #5882ec44;
+  animation: l1 1s infinite;
+  background: #5e5e94;  
+}
+@keyframes l1 {
+    100% {box-shadow: 0 0 0 30px #0000}
+}
+
+.mend-12 {
+	margin-right: 12px !important;
+}
+
+.list-page-badge {
+    white-space: break-spaces !important;
+    width: 70px !important;
+}
+
+.txt-white {
+    color: white;
+}
+
+.font-weight-bold {
+	font-weight: bold;
+}
+
+.border-unset {
+	border-radius: unset !important;
+}
+
+.custom-tab-1 .nav-tabs > li > a > i {
+	margin-right: 8px;
+}
+
+.custom-tab-1 .nav-tabs > li.active > a > i {
+	color: #2196F3 !important;
+}
+
+.dropzone .dz-preview.dz-error .dz-error-message {
+    display: block;
+    opacity: 1 !important;
+}
+
+/*	basic contract details breadcrumb start */
+.basic_details{
+ display: inline-block;
+ box-shadow: 0 0 15px 1px #00000059;
+ overflow: hidden;
+ border-radius: 5px;
+ counter-reset: flag;
+}
+.basic_details a{
+ text-decoration: none;
+ outline: none;
+ display: block;
+ float: left;
+ font-size: 12px;
+ line-height: 36px;
+ color:#fff;
+ padding: 0 10px 0 60px;
+ background: #666;
+ background: linear-gradient(#666, #333);
+ position: relative;
+}
+.basic_details a:first-child{
+ padding-left: 46px;
+ border-radius: 5px 0 0 5px;
+}
+.basic_details a:first-child::before{
+ left: 14px;
+}
+.basic_details a:last-child{
+ border-radius: 0 5px 5px 0;
+ padding-right: 20px;
+}
+
+.basic_details a::after{
+ content: "";
+ position: absolute;
+ top: 0;
+ right: -18px;
+ width: 36px;
+ height: 36px;
+ transform: scale(0.707) rotate(45deg);
+ z-index: 1;
+ background: #666;
+ background: linear-gradient(135deg, #666, #333);
+ box-shadow: 
+ 2px -2px 0 2px #00000066,
+ 3px -3px 0 2px #ffffff1a;
+ border-radius: 0 5px 0 50px;
+}
+.basic_details a:last-child::after{
+ content: none;
+}
+
+.flat a, .flat a::after{
+ background: #fff;
+ color: #000;
+ transition: all 0.5s;
+}
+.flat a::before{
+ background: #fff;
+ box-shadow: 0 0 0 1px #ccc;
+}
+.flat a:hover, .flat a.active,
+.flat a:hover::after, .flat a.active::after{
+	/* background: #9EEB62;*/
+	background: #B771E5;
+	color: white;
+	font-weight: bold;
+}
+/*	basic contract details breadcrumb end */
+
+.p-0 {
+	padding: 0px;
+} 
+
+.tbl_action_div {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.tbl_action_view,.tbl_action_edit,.tbl_action_delete {
+	height: 23px;
+}
+
+.document-view {
+	font-size: 14px;
+	text-align: center;
+	display: block;
+	cursor: pointer !important;
+	border: none;
+}
